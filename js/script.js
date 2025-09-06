@@ -809,3 +809,4 @@ startScreen.addEventListener('click', async () => {
   setInterval(fetchDiscordActivity, 15000); // update every 15s
 
 });
+
